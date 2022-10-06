@@ -4,6 +4,29 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    
+    <PackageId>MoneyExtensions</PackageId>
+    <Version>1.0.0</Version>
+    <icon>apontar p/ url</icon>
+    <License>MIT</License>
+    <Authors>André Rodrigues</Authors>
+    <Company>Teste</Company>
+    <PackageDescription>Teste</PackageDescription>
+    <Description>Teste</Description>
+    <RepositoryUrl>https://github.com/andre-r-batista/money-extensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/andre-r-batista/money-extensions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>Teste;C#</PackageTags>
+    <ReleaseNotes>Teste</ReleaseNotes>
+    <Title>MoneyExtensions</Title>
+    <Summary>Teste</Summary>
+
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack = "true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>
