@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     
-    <PackageId>MoneyExtensions</PackageId>
+    <PackageId>MoneyExtensionsAR</PackageId>
     <Version>1.0.0</Version>
     <icon>apontar p/ url</icon>
     <License>MIT</License>
